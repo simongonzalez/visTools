@@ -1,12 +1,1 @@
 theme: jekyll-theme-cayman
-
-plugins:
-- jekyll-menus
-
----
-title: Homepage
-menus:
-  header:
-    title: Home
-    weight: 1
----
