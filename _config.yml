@@ -2,3 +2,8 @@ theme: jekyll-theme-slate
 
 plugins:
 - jekyll-menus
+
+---
+title: Homepage
+menus: header
+---
